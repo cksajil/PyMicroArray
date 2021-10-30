@@ -28,10 +28,6 @@ pip==9.0.1,
 scipy==0.19.1.
 ```
 
-[![Download PDF](https://image.ibb.co/hoAbYk/pdf.png)]()        [![Found a bug ?](https://image.ibb.co/b8twYk/bug.png)](mailto:sajilckdcb@keralauniversity.ac.in)       [![Cite](https://image.ibb.co/cVN1zQ/cite.png)]()
-
-
-
 ### Contact
 **Sajil C. K.**,  
 Research Scholar,  
