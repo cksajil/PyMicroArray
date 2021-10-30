@@ -1,0 +1,154 @@
+Common items are:
+
+AAngiogenesis
+MFGE8
+ HOXB3
+ EPHA1
+  LEPR
+  FGF9
+HOXB13
+POFUT1
+
+
+Angiogenesis involved in wound healing
+ITGB3
+
+
+Blood vessel endothelial cell proliferation involved in sprouting angiogenesis
+SEMA5A
+
+
+Cadherin binding involved in cell-cell adhesion
+BAIAP2
+
+
+Cell migration involved in coronary angiogenesis
+Series([], )
+
+
+Cell migration involved in sprouting angiogenesis
+Series([], )
+
+
+Cell-cell adherens junction
+BAIAP2
+
+
+Cell-cell adhesion
+BAIAP2
+
+
+Endothelial tip cell fate specification
+Series([], )
+
+
+Negative regulation of angiogenesis
+DCN
+   PRL
+SEMA6A
+
+
+Negative regulation of blood vessel endothelial cell migration
+Series([], )
+
+
+Negative regulation of cell adhesion involved in sprouting angiogenesis
+SEMA6A
+
+
+Negative regulation of cell migration
+Series([], )
+
+
+Negative regulation of cell proliferation
+Series([], )
+
+
+Negative regulation of endothelial cell-matrix adhesion via fibronectin
+Series([], )
+
+
+Negative regulation of sprouting angiogenesis
+SEMA6A
+
+
+Positive regulation blood vessel branching
+Series([], )
+
+
+Positive regulation of angiogenesis
+SEMA5A
+  BTG1
+ADAM12
+ EPHA1
+   JUP
+ RUNX1
+  TERT
+
+
+Positive regulation of blood vessel endothelial cell migration
+Series([], )
+
+
+Positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis
+Series([], )
+
+
+Positive regulation of cell adhesion involved in sprouting angiogenesis
+Series([], )
+
+
+Positive regulation of cell migration involved in sprouting angiogenesis
+Series([], )
+
+
+Positive regulation of cell migration
+Series([], )
+
+
+Positive regulation of cell proliferation
+Series([], )
+
+
+Positive regulation of sprouting angiogenesis
+Series([], )
+
+
+Positive regulation of vascular endothelial growth factor receptor signaling pathway
+Series([], )
+
+
+Regulation of angiogenesis
+IL6
+CXCL13
+  RNH1
+
+
+Regulation of blood vessel branching
+Series([], )
+
+
+Regulation of cell migration involved in sprouting angiogenesis
+Series([], )
+
+
+Regulation of sprouting angiogenesis
+Series([], )
+
+
+Sprouting angiogenesis
+CDC42
+
+
+Vascular endothelial growth factor receptor signaling pathway
+BAIAP2
+
+
+branching involved in blood vessel morphogenesis
+Series([], )
+
+
+negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis
+Series([], )
+
+

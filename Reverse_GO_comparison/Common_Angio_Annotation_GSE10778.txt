@@ -1,0 +1,169 @@
+Common items are:
+
+AAngiogenesis
+HIF3A
+   TBX1
+  NAA15
+    SYK
+  MMRN2
+   VAV3
+TMPRSS6
+  SOX17
+   MED1
+   FGF9
+ ANGPT2
+  FGFR2
+   NRP2
+   FLT1
+
+
+Angiogenesis involved in wound healing
+NaN
+
+
+Blood vessel endothelial cell proliferation involved in sprouting angiogenesis
+NaN
+
+
+Cadherin binding involved in cell-cell adhesion
+NaN
+
+
+Cell migration involved in coronary angiogenesis
+NaN
+
+
+Cell migration involved in sprouting angiogenesis
+NaN
+GPLD1
+
+
+Cell-cell adherens junction
+NaN
+
+
+Cell-cell adhesion
+NaN
+
+
+Endothelial tip cell fate specification
+NaN
+
+
+Negative regulation of angiogenesis
+NaN
+ANGPT2
+SEMA6A
+ STAT1
+ THBS1
+
+
+Negative regulation of blood vessel endothelial cell migration
+NaN
+
+
+Negative regulation of cell adhesion involved in sprouting angiogenesis
+NaN
+SEMA6A
+
+
+Negative regulation of cell migration
+NaN
+
+
+Negative regulation of cell proliferation
+NaN
+
+
+Negative regulation of endothelial cell-matrix adhesion via fibronectin
+NaN
+
+
+Negative regulation of sprouting angiogenesis
+NaN
+  EPN2
+SEMA6A
+
+
+Positive regulation blood vessel branching
+NaN
+
+
+Positive regulation of angiogenesis
+NaN
+ ITGB8
+ THBS1
+ADAM12
+ RUNX1
+ANGPT2
+  FLT1
+
+
+Positive regulation of blood vessel endothelial cell migration
+NaN
+
+
+Positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis
+NaN
+
+
+Positive regulation of cell adhesion involved in sprouting angiogenesis
+NaN
+
+
+Positive regulation of cell migration involved in sprouting angiogenesis
+NaN
+
+
+Positive regulation of cell migration
+NaN
+
+
+Positive regulation of cell proliferation
+NaN
+
+
+Positive regulation of sprouting angiogenesis
+NaN
+
+
+Positive regulation of vascular endothelial growth factor receptor signaling pathway
+NaN
+
+
+Regulation of angiogenesis
+NaN
+
+
+Regulation of blood vessel branching
+NaN
+
+
+Regulation of cell migration involved in sprouting angiogenesis
+NaN
+
+
+Regulation of sprouting angiogenesis
+NaN
+
+
+Sprouting angiogenesis
+NaN
+THBS1
+ FLT1
+
+
+Vascular endothelial growth factor receptor signaling pathway
+NaN
+
+
+branching involved in blood vessel morphogenesis
+NaN
+STK4
+
+
+negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis
+NaN
+THBS1
+
+

@@ -1,0 +1,3 @@
+"regulator_symbol","regulator_id","target_symbol","target_id","database","evidence","confidence"
+"GATA1","2623","hsa-miR-144","MIMAT0000436","transmir","Experimental","High"
+"GATA4","2626","hsa-miR-144","MIMAT0000436","transmir","Experimental","High"

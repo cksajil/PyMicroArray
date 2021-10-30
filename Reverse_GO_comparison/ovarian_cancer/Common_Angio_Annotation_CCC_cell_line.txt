@@ -1,0 +1,182 @@
+Common items are:
+
+AAngiogenesis
+CCL2
+   NDNF
+  HAND2
+  SOX18
+   APOD
+    TEK
+  ECSCR
+  S1PR1
+   THY1
+  EPHB3
+   JAM3
+  RAMP1
+  RAMP3
+   APLN
+TMEM100
+ HOXB13
+COL15A1
+  PROK1
+   GJA5
+  ROBO4
+  ACKR3
+   MMP2
+  PRKD1
+   AMOT
+
+
+Angiogenesis involved in wound healing
+Series([], )
+
+
+Blood vessel endothelial cell proliferation involved in sprouting angiogenesis
+Series([], )
+
+
+Cadherin binding involved in cell-cell adhesion
+Series([], )
+
+
+Cell migration involved in coronary angiogenesis
+Series([], )
+
+
+Cell migration involved in sprouting angiogenesis
+EGR3
+TDGF1
+
+
+Cell-cell adherens junction
+Series([], )
+
+
+Cell-cell adhesion
+Series([], )
+
+
+Endothelial tip cell fate specification
+Series([], )
+
+
+Negative regulation of angiogenesis
+DCN
+     PTN
+     TEK
+   ECSCR
+   THBS2
+   SULF1
+   SPARC
+SERPINF1
+    AMOT
+
+
+Negative regulation of blood vessel endothelial cell migration
+Series([], )
+
+
+Negative regulation of cell adhesion involved in sprouting angiogenesis
+Series([], )
+
+
+Negative regulation of cell migration
+Series([], )
+
+
+Negative regulation of cell proliferation
+Series([], )
+
+
+Negative regulation of endothelial cell-matrix adhesion via fibronectin
+Series([], )
+
+
+Negative regulation of sprouting angiogenesis
+Series([], )
+
+
+Positive regulation blood vessel branching
+Series([], )
+
+
+Positive regulation of angiogenesis
+SFRP2
+   TEK
+  CD34
+ PRKD1
+  CYBB
+CHI3L1
+ GATA4
+  CDH5
+    C6
+
+
+Positive regulation of blood vessel endothelial cell migration
+Series([], )
+
+
+Positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis
+Series([], )
+
+
+Positive regulation of cell adhesion involved in sprouting angiogenesis
+Series([], )
+
+
+Positive regulation of cell migration involved in sprouting angiogenesis
+Series([], )
+
+
+Positive regulation of cell migration
+Series([], )
+
+
+Positive regulation of cell proliferation
+Series([], )
+
+
+Positive regulation of sprouting angiogenesis
+Series([], )
+
+
+Positive regulation of vascular endothelial growth factor receptor signaling pathway
+Series([], )
+
+
+Regulation of angiogenesis
+PROK1
+SFRP1
+ENPP2
+
+
+Regulation of blood vessel branching
+Series([], )
+
+
+Regulation of cell migration involved in sprouting angiogenesis
+Series([], )
+
+
+Regulation of sprouting angiogenesis
+Series([], )
+
+
+Sprouting angiogenesis
+TEK
+CDH5
+
+
+Vascular endothelial growth factor receptor signaling pathway
+Series([], )
+
+
+branching involved in blood vessel morphogenesis
+SFRP2
+EDNRA
+
+
+negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis
+NGFR
+
+

@@ -1,0 +1,4 @@
+"regulator_symbol","regulator_id","target_symbol","target_id","database","evidence","confidence"
+"HNF1A","6927","hsa-miR-192","MIMAT0000222","transmir","Experimental","High"
+"TGFB1","7040","hsa-miR-192","MIMAT0000222","transmir","Experimental","High"
+"TP53","7157","hsa-miR-192","MIMAT0000222","transmir","Experimental","High"

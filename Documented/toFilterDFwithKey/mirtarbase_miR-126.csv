@@ -1,0 +1,231 @@
+,miRTarBase ID,miRNA,Species (miRNA),Target Gene,Target Gene (Entrez Gene ID),Species (Target Gene),Experiments,Support Type,References (PMID)
+403,MIRT000343,hsa-miR-126-3p,Homo sapiens,SPRED1,161742.0,Homo sapiens,Luciferase reporter assay,Functional MTI,18694566
+404,MIRT000343,hsa-miR-126-3p,Homo sapiens,SPRED1,161742.0,Homo sapiens,Luciferase reporter assay//Western blot,Functional MTI,18987025
+405,MIRT000343,hsa-miR-126-3p,Homo sapiens,SPRED1,161742.0,Homo sapiens,Flow//Luciferase reporter assay//qRT-PCR//Western blot,Functional MTI,22525256
+406,MIRT000343,hsa-miR-126-3p,Homo sapiens,SPRED1,161742.0,Homo sapiens,qRT-PCR//Western blot,Functional MTI,23811937
+407,MIRT000343,hsa-miR-126-3p,Homo sapiens,SPRED1,161742.0,Homo sapiens,Luciferase reporter assay,Non-Functional MTI,18832181
+408,MIRT000344,hsa-miR-126-3p,Homo sapiens,PLK2,10769.0,Homo sapiens,Luciferase reporter assay//qRT-PCR,Functional MTI,18832181
+409,MIRT000344,hsa-miR-126-3p,Homo sapiens,PLK2,10769.0,Homo sapiens,Luciferase reporter assay//qRT-PCR//Western blot,Functional MTI,24969300
+894,MIRT000798,hsa-miR-126-3p,Homo sapiens,SLC45A3,85414.0,Homo sapiens,Western blot//Luciferase reporter assay//Reporter assay;Other,Non-Functional MTI,18193184
+1052,MIRT000965,hsa-miR-126-3p,Homo sapiens,CCNE2,9134.0,Homo sapiens,Luciferase reporter assay,Non-Functional MTI,18834857
+1053,MIRT000966,hsa-miR-126-3p,Homo sapiens,RGS3,5998.0,Homo sapiens,Luciferase reporter assay,Non-Functional MTI,18834857
+1054,MIRT000966,hsa-miR-126-3p,Homo sapiens,RGS3,5998.0,Homo sapiens,Reporter assay,Non-Functional MTI,21249429
+1055,MIRT000967,hsa-miR-126-3p,Homo sapiens,TOM1,10043.0,Homo sapiens,Luciferase reporter assay//qRT-PCR//Western blot//Reporter assay;Western blot,Functional MTI,20083669
+1056,MIRT000967,hsa-miR-126-3p,Homo sapiens,TOM1,10043.0,Homo sapiens,Microarray//qRT-PCR,Functional MTI (Weak),22815788
+1057,MIRT000967,hsa-miR-126-3p,Homo sapiens,TOM1,10043.0,Homo sapiens,Luciferase reporter assay,Non-Functional MTI,18834857
+2038,MIRT001820,hsa-miR-126-5p,Homo sapiens,SLC45A3,85414.0,Homo sapiens,Western blot//Luciferase reporter assay//Reporter assay;Other,Functional MTI,18193184
+2084,MIRT001918,hsa-miR-126-3p,Homo sapiens,HOXA9,3205.0,Homo sapiens,GFP reporter assay//qRT-PCR//Western blot//Luciferase reporter assay,Functional MTI,18474618
+2994,MIRT002993,hsa-miR-126-3p,Homo sapiens,CRK,1398.0,Homo sapiens,Luciferase reporter assay//Western blot//qRT-PCR,Functional MTI,18602365
+2995,MIRT002993,hsa-miR-126-3p,Homo sapiens,CRK,1398.0,Homo sapiens,Western blot,Functional MTI,19767772
+2996,MIRT002993,hsa-miR-126-3p,Homo sapiens,CRK,1398.0,Homo sapiens,Immunohistochemistry//Luciferase reporter assay//Western blot,Functional MTI,20619534
+2997,MIRT002993,hsa-miR-126-3p,Homo sapiens,CRK,1398.0,Homo sapiens,qRT-PCR//Western blot,Functional MTI,24969300
+2998,MIRT002993,hsa-miR-126-3p,Homo sapiens,CRK,1398.0,Homo sapiens,qRT-PCR//Western blot,Functional MTI,25027343
+2999,MIRT002993,hsa-miR-126-3p,Homo sapiens,CRK,1398.0,Homo sapiens,Sequencing,Functional MTI (Weak),20371350
+3428,MIRT003428,hsa-miR-126-3p,Homo sapiens,VEGFA,7422.0,Homo sapiens,Luciferase reporter assay//Reporter assay,Functional MTI,19223090
+3429,MIRT003428,hsa-miR-126-3p,Homo sapiens,VEGFA,7422.0,Homo sapiens,Luciferase reporter assay//Western blot//Reporter assay;Western blot,Functional MTI,21249429
+3430,MIRT003428,hsa-miR-126-3p,Homo sapiens,VEGFA,7422.0,Homo sapiens,Luciferase reporter assay//qRT-PCR//Western blot,Functional MTI,22510476
+3431,MIRT003428,hsa-miR-126-3p,Homo sapiens,VEGFA,7422.0,Homo sapiens,Luciferase reporter assay//qRT-PCR//Western blot,Functional MTI,23900443
+3432,MIRT003428,hsa-miR-126-3p,Homo sapiens,VEGFA,7422.0,Homo sapiens,Luciferase reporter assay,Functional MTI,24140635
+3433,MIRT003428,hsa-miR-126-3p,Homo sapiens,VEGFA,7422.0,Homo sapiens,Luciferase reporter assay//qRT-PCR//Western blot,Functional MTI,25428912
+3434,MIRT003428,hsa-miR-126-3p,Homo sapiens,VEGFA,7422.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),21572407
+3748,MIRT003894,hsa-miR-126-3p,Homo sapiens,PIK3R2,5296.0,Homo sapiens,Western blot//qRT-PCR//Luciferase reporter assay,Functional MTI,18663744
+3749,MIRT003894,hsa-miR-126-3p,Homo sapiens,PIK3R2,5296.0,Homo sapiens,Luciferase reporter assay//Western blot,Functional MTI,18987025
+3750,MIRT003894,hsa-miR-126-3p,Homo sapiens,PIK3R2,5296.0,Homo sapiens,Luciferase reporter assay//Western blot//Reporter assay;Western blot,Functional MTI,21249429
+3751,MIRT003894,hsa-miR-126-3p,Homo sapiens,PIK3R2,5296.0,Homo sapiens,qRT-PCR//Western blot,Functional MTI,24969300
+3923,MIRT004081,hsa-miR-126-3p,Homo sapiens,VCAM1,7412.0,Homo sapiens,Luciferase reporter assay//Western blot//Reporter assay;Other,Functional MTI,18227515
+4228,MIRT004355,hsa-miR-126-3p,Homo sapiens,IRS1,3667.0,Homo sapiens,qRT-PCR//Luciferase reporter assay//Western blot,Functional MTI,18834857
+4229,MIRT004355,hsa-miR-126-3p,Homo sapiens,IRS1,3667.0,Homo sapiens,Luciferase reporter assay,Functional MTI,21464990
+4230,MIRT004355,hsa-miR-126-3p,Homo sapiens,IRS1,3667.0,Homo sapiens,Luciferase reporter assay//Northern blot//qRT-PCR//Western blot,Functional MTI,23603512
+4231,MIRT004355,hsa-miR-126-3p,Homo sapiens,IRS1,3667.0,Homo sapiens,Luciferase reporter assay//qRT-PCR//Western blot,Functional MTI,23893300
+4894,MIRT005020,hsa-miR-126-3p,Homo sapiens,E2F1,1869.0,Homo sapiens,qRT-PCR,Non-Functional MTI (Weak),18521848
+5275,MIRT005370,hsa-miR-126-3p,Homo sapiens,SOX2,6657.0,Homo sapiens,Immunohistochemistry//Luciferase reporter assay//Microarray//qRT-PCR//Western blot,Functional MTI,21304604
+5276,MIRT005370,hsa-miR-126-3p,Homo sapiens,SOX2,6657.0,Homo sapiens,Luciferase reporter assay,Functional MTI,24384842
+5406,MIRT005538,hsa-miR-126-3p,Homo sapiens,TWF1,5756.0,Homo sapiens,Luciferase reporter assay//Microarray//Northern blot//qRT-PCR//Western blot,Non-Functional MTI,20571053
+5408,MIRT005540,hsa-miR-126-3p,Homo sapiens,TWF2,11344.0,Homo sapiens,Luciferase reporter assay//Microarray//Northern blot//qRT-PCR//Western blot,Non-Functional MTI,20571053
+5592,MIRT005727,hsa-miR-126-3p,Homo sapiens,PTPN7,5778.0,Homo sapiens,Flow//Immunoprecipitaion//Luciferase reporter assay//qRT-PCR//Western blot,Functional MTI,21163928
+5593,MIRT005728,hsa-miR-126-5p,Homo sapiens,PTPN7,5778.0,Homo sapiens,Flow//Immunoprecipitaion//Luciferase reporter assay//qRT-PCR//Western blot,Functional MTI,21163928
+5594,MIRT005729,hsa-miR-126-3p,Homo sapiens,DNMT1,1786.0,Homo sapiens,Flow//Luciferase reporter assay//Microarray//qRT-PCR//Western blot,Functional MTI,21165896
+5595,MIRT005729,hsa-miR-126-3p,Homo sapiens,DNMT1,1786.0,Homo sapiens,Flow//Luciferase reporter assay//qRT-PCR//Western blot,Functional MTI,21538319
+6403,MIRT006450,hsa-miR-126-3p,Homo sapiens,KRAS,3845.0,Homo sapiens,Immunohistochemistry//Luciferase reporter assay//Microarray//qRT-PCR//Western blot,Functional MTI,22384141
+6507,MIRT006543,hsa-miR-126-3p,Homo sapiens,IGFBP2,3485.0,Homo sapiens,ELISA//Flow//Immunohistochemistry//Luciferase reporter assay//Microarray//qRT-PCR//Western blot,Functional MTI,22170610
+6508,MIRT006544,hsa-miR-126-3p,Homo sapiens,PITPNC1,26207.0,Homo sapiens,ELISA//Flow//Immunohistochemistry//Luciferase reporter assay//Microarray//qRT-PCR//Western blot,Functional MTI,22170610
+6509,MIRT006545,hsa-miR-126-3p,Homo sapiens,MERTK,10461.0,Homo sapiens,ELISA//Flow//Immunohistochemistry//Luciferase reporter assay//Microarray//qRT-PCR//Western blot,Functional MTI,22170610
+6529,MIRT006558,hsa-miR-126-3p,Homo sapiens,EGFL7,51162.0,Homo sapiens,Flow//Immunoblot//Immunohistochemistry//Luciferase reporter assay//qRT-PCR//Western blot//Western blot;qRT-PCR;Other,Functional MTI,20034472
+6530,MIRT006558,hsa-miR-126-3p,Homo sapiens,EGFL7,51162.0,Homo sapiens,Reporter assay,Non-Functional MTI,21249429
+6619,MIRT006679,hsa-miR-126-3p,Homo sapiens,SLC7A5,8140.0,Homo sapiens,Immunohistochemistry//Luciferase reporter assay//qRT-PCR//Western blot,Functional MTI,21439283
+6620,MIRT006679,hsa-miR-126-3p,Homo sapiens,SLC7A5,8140.0,Homo sapiens,Flow//Immunohistochemistry//Luciferase reporter assay//qRT-PCR//Western blot,Functional MTI,26054677
+6621,MIRT006679,hsa-miR-126-3p,Homo sapiens,SLC7A5,8140.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),20371350
+6802,MIRT006831,hsa-miR-126-3p,Homo sapiens,PIK3CG,5294.0,Homo sapiens,Immunocytochemistry//Luciferase reporter assay//qRT-PCR//Western blot,Functional MTI,22900072
+6803,MIRT006831,hsa-miR-126-3p,Homo sapiens,PIK3CG,5294.0,Homo sapiens,Microarray//qRT-PCR//Western blot//SILAC (Stable Isotope Labeling of Amino acids in Culture),Functional MTI,23142521
+6857,MIRT006883,hsa-miR-126-3p,Homo sapiens,TEK,7010.0,Homo sapiens,Luciferase reporter assay//qRT-PCR//Western blot,Functional MTI,22867989
+7311,MIRT007266,hsa-miR-126-3p,Homo sapiens,ADAM9,8754.0,Homo sapiens,Immunohistochemistry//In situ hybridization//Microarray//qRT-PCR//Western blot,Functional MTI,22064652
+7312,MIRT007266,hsa-miR-126-3p,Homo sapiens,ADAM9,8754.0,Homo sapiens,Luciferase reporter assay,Functional MTI,23437250
+7313,MIRT007266,hsa-miR-126-3p,Homo sapiens,ADAM9,8754.0,Homo sapiens,Western blot,Functional MTI,24823697
+7314,MIRT007267,hsa-miR-126-5p,Homo sapiens,ADAM9,8754.0,Homo sapiens,Luciferase reporter assay,Functional MTI,23437250
+7315,MIRT007268,hsa-miR-126-5p,Homo sapiens,MMP7,4316.0,Homo sapiens,Luciferase reporter assay,Functional MTI,23437250
+7316,MIRT007269,hsa-miR-126-3p,Homo sapiens,MMP7,4316.0,Homo sapiens,Luciferase reporter assay,Functional MTI,23437250
+7462,MIRT007380,hsa-miR-126-5p,Homo sapiens,CXCL12,6387.0,Homo sapiens,Luciferase reporter assay,Functional MTI,23396050
+7463,MIRT007381,hsa-miR-126-3p,Homo sapiens,CXCL12,6387.0,Homo sapiens,Luciferase reporter assay,Functional MTI,23396050
+13101,MIRT021281,hsa-miR-126-3p,Homo sapiens,CRKL,1399.0,Homo sapiens,Immunohistochemistry//Luciferase reporter assay//qRT-PCR//Western blot,Functional MTI,24055140
+13102,MIRT021282,hsa-miR-126-3p,Homo sapiens,PGR,5241.0,Homo sapiens,Reporter assay;Western blot,Functional MTI,21526342
+36187,MIRT045695,hsa-miR-126-3p,Homo sapiens,RBMX,27316.0,Homo sapiens,CLASH,Functional MTI (Weak),23622248
+36188,MIRT045696,hsa-miR-126-5p,Homo sapiens,CSGALNACT1,55790.0,Homo sapiens,CLASH,Functional MTI (Weak),23622248
+44212,MIRT053249,hsa-miR-126-3p,Homo sapiens,FOXO3,2309.0,Homo sapiens,In situ hybridization//Luciferase reporter assay//Northern blot//qRT-PCR//Western blot,Functional MTI,23603512
+44215,MIRT053253,hsa-miR-126-3p,Homo sapiens,BCL2,596.0,Homo sapiens,In situ hybridization//Luciferase reporter assay//Microarray//Northern blot//qRT-PCR//Western blot,Functional MTI,23603512
+45130,MIRT054425,hsa-miR-126-3p,Homo sapiens,CXCR4,7852.0,Homo sapiens,Luciferase reporter assay//Western blot,Functional MTI,23744532
+45131,MIRT054425,hsa-miR-126-3p,Homo sapiens,CXCR4,7852.0,Homo sapiens,Luciferase reporter assay,Functional MTI,24189753
+45132,MIRT054425,hsa-miR-126-3p,Homo sapiens,CXCR4,7852.0,Homo sapiens,qRT-PCR//Western blot,Functional MTI,24532280
+48533,MIRT065784,hsa-miR-126-5p,Homo sapiens,HOXC8,3224.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),20371350
+51620,MIRT078647,hsa-miR-126-5p,Homo sapiens,ICT1,3396.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),21572407
+51857,MIRT079657,hsa-miR-126-5p,Homo sapiens,NAPG,8774.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),20371350
+51858,MIRT079657,hsa-miR-126-5p,Homo sapiens,NAPG,8774.0,Homo sapiens,PAR-CLIP//HITS-CLIP,Functional MTI (Weak),21572407
+51859,MIRT079657,hsa-miR-126-5p,Homo sapiens,NAPG,8774.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),22012620
+51860,MIRT079657,hsa-miR-126-5p,Homo sapiens,NAPG,8774.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),23446348
+51861,MIRT079657,hsa-miR-126-5p,Homo sapiens,NAPG,8774.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),23592263
+51862,MIRT079657,hsa-miR-126-5p,Homo sapiens,NAPG,8774.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),24398324
+51945,MIRT079850,hsa-miR-126-5p,Homo sapiens,DSG2,1829.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),21572407
+55785,MIRT092787,hsa-miR-126-5p,Homo sapiens,SETD5,55209.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),20371350
+56027,MIRT093986,hsa-miR-126-5p,Homo sapiens,SLAIN2,57606.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),21572407
+56207,MIRT094992,hsa-miR-126-5p,Homo sapiens,AFF4,27125.0,Homo sapiens,HITS-CLIP,Functional MTI (Weak),23824327
+56837,MIRT097335,hsa-miR-126-5p,Homo sapiens,SCAMP1,9522.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),23446348
+58884,MIRT103410,hsa-miR-126-5p,Homo sapiens,SNX10,29887.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),21572407
+61062,MIRT116186,hsa-miR-126-5p,Homo sapiens,NUFIP2,57532.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),21572407
+64766,MIRT153689,hsa-miR-126-5p,Homo sapiens,NCOA3,8202.0,Homo sapiens,HITS-CLIP,Functional MTI (Weak),23824327
+65073,MIRT156592,hsa-miR-126-5p,Homo sapiens,COQ10B,80219.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),22291592
+66703,MIRT175235,hsa-miR-126-5p,Homo sapiens,PSAT1,29968.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),20371350
+66704,MIRT175235,hsa-miR-126-5p,Homo sapiens,PSAT1,29968.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),23446348
+69024,MIRT191127,hsa-miR-126-5p,Homo sapiens,L2HGDH,79944.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),21572407
+69025,MIRT191127,hsa-miR-126-5p,Homo sapiens,L2HGDH,79944.0,Homo sapiens,HITS-CLIP,Functional MTI (Weak),23313552
+69026,MIRT191127,hsa-miR-126-5p,Homo sapiens,L2HGDH,79944.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),23446348
+69617,MIRT195287,hsa-miR-126-5p,Homo sapiens,LEPROT,54741.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),20371350
+69764,MIRT195903,hsa-miR-126-5p,Homo sapiens,SRSF11,9295.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),21572407
+71494,MIRT210755,hsa-miR-126-5p,Homo sapiens,CHMP2B,25978.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),21572407
+72075,MIRT214865,hsa-miR-126-5p,Homo sapiens,NR3C1,2908.0,Homo sapiens,HITS-CLIP,Functional MTI (Weak),23313552
+72405,MIRT216426,hsa-miR-126-5p,Homo sapiens,SERF1A,8293.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),22012620
+72427,MIRT216451,hsa-miR-126-5p,Homo sapiens,SERF1B,728492.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),22012620
+72477,MIRT217321,hsa-miR-126-5p,Homo sapiens,FOXO3,2309.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),20371350
+72478,MIRT217321,hsa-miR-126-5p,Homo sapiens,FOXO3,2309.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),21572407
+73838,MIRT235592,hsa-miR-126-5p,Homo sapiens,POFUT1,23509.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),23592263
+73865,MIRT236107,hsa-miR-126-5p,Homo sapiens,MYCN,4613.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),22012620
+74186,MIRT241076,hsa-miR-126-5p,Homo sapiens,ZXDA,7789.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),23446348
+76364,MIRT259362,hsa-miR-126-5p,Homo sapiens,VMA21,203547.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),23446348
+76591,MIRT261131,hsa-miR-126-5p,Homo sapiens,TRIM8,81603.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),21572407
+77428,MIRT269705,hsa-miR-126-5p,Homo sapiens,ELK4,2005.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),20371350
+77429,MIRT269705,hsa-miR-126-5p,Homo sapiens,ELK4,2005.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),23446348
+77690,MIRT273037,hsa-miR-126-5p,Homo sapiens,ZBTB18,10472.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),20371350
+77691,MIRT273037,hsa-miR-126-5p,Homo sapiens,ZBTB18,10472.0,Homo sapiens,PAR-CLIP//HITS-CLIP,Functional MTI (Weak),21572407
+78269,MIRT281353,hsa-miR-126-5p,Homo sapiens,TMOD3,29766.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),20371350
+78270,MIRT281353,hsa-miR-126-5p,Homo sapiens,TMOD3,29766.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),23446348
+78973,MIRT291515,hsa-miR-126-5p,Homo sapiens,VAPA,9218.0,Homo sapiens,HITS-CLIP,Functional MTI (Weak),23824327
+79722,MIRT298275,hsa-miR-126-5p,Homo sapiens,SON,6651.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),20371350
+79740,MIRT299108,hsa-miR-126-5p,Homo sapiens,CSRNP3,80034.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),23446348
+80471,MIRT306692,hsa-miR-126-5p,Homo sapiens,TFRC,7037.0,Homo sapiens,HITS-CLIP,Functional MTI (Weak),23313552
+82388,MIRT328572,hsa-miR-126-5p,Homo sapiens,GALNT4,8693.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),21572407
+82389,MIRT328576,hsa-miR-126-5p,Homo sapiens,POC1B-GALNT4,100528030.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),21572407
+83804,MIRT352040,hsa-miR-126-5p,Homo sapiens,BZW1,9689.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),23592263
+85279,MIRT377904,hsa-miR-126-5p,Homo sapiens,LIN54,132660.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),22100165
+85305,MIRT378580,hsa-miR-126-5p,Homo sapiens,COL19A1,1310.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),22012620
+85407,MIRT380515,hsa-miR-126-5p,Homo sapiens,SLC12A6,9990.0,Homo sapiens,HITS-CLIP,Functional MTI (Weak),23313552
+87574,MIRT438175,hsa-miR-126-3p,Homo sapiens,CD97,976.0,Homo sapiens,FACS//Flow//GFP reporter assay//Luciferase reporter assay//qRT-PCR,Functional MTI,24274104
+87587,MIRT438192,hsa-miR-126-3p,Homo sapiens,TCF4,6925.0,Homo sapiens,Luciferase reporter assay,Functional MTI,24190507
+87790,MIRT438412,hsa-miR-126-3p,Homo sapiens,Cdkn1b,83571.0,Homo sapiens,Immunoblot//qRT-PCR,Functional MTI (Weak),25133421
+87897,MIRT438574,hsa-miR-126-3p,Homo sapiens,RHOU,58480.0,Homo sapiens,Luciferase reporter assay//qRT-PCR//Western blot,Functional MTI,23811937
+87898,MIRT438575,hsa-miR-126-3p,Homo sapiens,LRP6,4040.0,Homo sapiens,Luciferase reporter assay//qRT-PCR//Western blot,Functional MTI,23811937
+87908,MIRT438600,hsa-miR-126-3p,Homo sapiens,ADM,133.0,Homo sapiens,Luciferase reporter assay,Functional MTI,24037526
+87926,MIRT438621,hsa-miR-126-5p,Homo sapiens,MYC,4609.0,Homo sapiens,Immunoblot//Luciferase reporter assay//qRT-PCR,Functional MTI,22972034
+87950,MIRT438651,hsa-miR-126-3p,Homo sapiens,SIRT1,23411.0,Homo sapiens,Luciferase reporter assay//qRT-PCR//Western blot,Functional MTI,23877372
+88035,MIRT438759,hsa-miR-126-3p,Homo sapiens,NFKBIA,4792.0,Homo sapiens,Immunofluorescence//Luciferase reporter assay//qRT-PCR//Western blot,Functional MTI,23285182
+124761,MIRT467404,hsa-miR-126-5p,Homo sapiens,SOCS3,9021.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),23592263
+124949,MIRT467528,hsa-miR-126-5p,Homo sapiens,SMG1,23049.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),21572407
+124950,MIRT467528,hsa-miR-126-5p,Homo sapiens,SMG1,23049.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),23592263
+129225,MIRT470551,hsa-miR-126-5p,Homo sapiens,COASY,80347.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),23592263
+132056,MIRT472617,hsa-miR-126-5p,Homo sapiens,NAA50,80218.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),23592263
+135723,MIRT475072,hsa-miR-126-5p,Homo sapiens,ITSN2,50618.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),23592263
+135724,MIRT475072,hsa-miR-126-5p,Homo sapiens,ITSN2,50618.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),24398324
+147049,MIRT482272,hsa-miR-126-5p,Homo sapiens,AGO2,27161.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),23592263
+163661,MIRT492359,hsa-miR-126-5p,Homo sapiens,SEMA7A,8482.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),23592263
+166924,MIRT494483,hsa-miR-126-5p,Homo sapiens,BRWD3,254065.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),23592263
+174698,MIRT499844,hsa-miR-126-5p,Homo sapiens,AVPR1A,552.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),22012620
+174699,MIRT499844,hsa-miR-126-5p,Homo sapiens,AVPR1A,552.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),24398324
+179628,MIRT501935,hsa-miR-126-5p,Homo sapiens,MBD2,8932.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),20371350
+179629,MIRT501935,hsa-miR-126-5p,Homo sapiens,MBD2,8932.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),21572407
+179630,MIRT501935,hsa-miR-126-5p,Homo sapiens,MBD2,8932.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),23446348
+179631,MIRT501935,hsa-miR-126-5p,Homo sapiens,MBD2,8932.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),24398324
+179732,MIRT501965,hsa-miR-126-5p,Homo sapiens,MAPK8,5599.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),24398324
+183030,MIRT503246,hsa-miR-126-5p,Homo sapiens,ZFP36,7538.0,Homo sapiens,HITS-CLIP,Functional MTI (Weak),23313552
+183031,MIRT503246,hsa-miR-126-5p,Homo sapiens,ZFP36,7538.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),23446348
+184525,MIRT503962,hsa-miR-126-5p,Homo sapiens,ZNF180,7733.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),21572407
+184526,MIRT503962,hsa-miR-126-5p,Homo sapiens,ZNF180,7733.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),22012620
+184527,MIRT503962,hsa-miR-126-5p,Homo sapiens,ZNF180,7733.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),23446348
+187658,MIRT505388,hsa-miR-126-5p,Homo sapiens,TMEM100,55273.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),23446348
+198915,MIRT510368,hsa-miR-126-5p,Homo sapiens,ZNF703,80139.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),20371350
+198916,MIRT510368,hsa-miR-126-5p,Homo sapiens,ZNF703,80139.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),21572407
+198917,MIRT510368,hsa-miR-126-5p,Homo sapiens,ZNF703,80139.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),23446348
+203118,MIRT512216,hsa-miR-126-5p,Homo sapiens,C18orf25,147339.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),20371350
+203119,MIRT512216,hsa-miR-126-5p,Homo sapiens,C18orf25,147339.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),23446348
+208053,MIRT515221,hsa-miR-126-5p,Homo sapiens,GRIK5,2901.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),23446348
+214944,MIRT519869,hsa-miR-126-5p,Homo sapiens,ZFP62,643836.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),20371350
+214945,MIRT519869,hsa-miR-126-5p,Homo sapiens,ZFP62,643836.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),21572407
+214946,MIRT519869,hsa-miR-126-5p,Homo sapiens,ZFP62,643836.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),23446348
+218221,MIRT521870,hsa-miR-126-5p,Homo sapiens,PLAG1,5324.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),20371350
+218222,MIRT521870,hsa-miR-126-5p,Homo sapiens,PLAG1,5324.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),21572407
+218223,MIRT521870,hsa-miR-126-5p,Homo sapiens,PLAG1,5324.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),22012620
+218224,MIRT521870,hsa-miR-126-5p,Homo sapiens,PLAG1,5324.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),23446348
+218886,MIRT522187,hsa-miR-126-5p,Homo sapiens,NR2C2,7182.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),20371350
+218887,MIRT522187,hsa-miR-126-5p,Homo sapiens,NR2C2,7182.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),21572407
+218888,MIRT522187,hsa-miR-126-5p,Homo sapiens,NR2C2,7182.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),23446348
+221921,MIRT523974,hsa-miR-126-5p,Homo sapiens,DVL3,1857.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),23446348
+226747,MIRT527649,hsa-miR-126-3p,Homo sapiens,KCNJ1,3758.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),22012620
+227357,MIRT528240,hsa-miR-126-5p,Homo sapiens,SPIN4,139886.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),22012620
+227795,MIRT528604,hsa-miR-126-5p,Homo sapiens,ZNF326,284695.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),22012620
+232722,MIRT532873,hsa-miR-126-5p,Homo sapiens,ZNF566,84924.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),22012620
+238412,MIRT537648,hsa-miR-126-5p,Homo sapiens,ERGIC2,51290.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),20371350
+238413,MIRT537648,hsa-miR-126-5p,Homo sapiens,ERGIC2,51290.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),22012620
+239108,MIRT538244,hsa-miR-126-5p,Homo sapiens,CXorf23,256643.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),22012620
+239911,MIRT538882,hsa-miR-126-5p,Homo sapiens,BTBD1,53339.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),22012620
+247466,MIRT544757,hsa-miR-126-5p,Homo sapiens,C8orf33,65265.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),21572407
+248262,MIRT545417,hsa-miR-126-3p,Homo sapiens,SLC39A6,25800.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),21572407
+250463,MIRT547145,hsa-miR-126-5p,Homo sapiens,PGM3,5238.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),21572407
+252459,MIRT548677,hsa-miR-126-5p,Homo sapiens,CRNKL1,51340.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),21572407
+254363,MIRT550159,hsa-miR-126-5p,Homo sapiens,ZNF223,7766.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),20371350
+254364,MIRT550159,hsa-miR-126-5p,Homo sapiens,ZNF223,7766.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),21572407
+255555,MIRT551097,hsa-miR-126-5p,Homo sapiens,TTC8,123016.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),21572407
+257492,MIRT552633,hsa-miR-126-5p,Homo sapiens,ZBTB41,360023.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),21572407
+264547,MIRT558542,hsa-miR-126-5p,Homo sapiens,CSNK1G3,1456.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),20371350
+264548,MIRT558542,hsa-miR-126-5p,Homo sapiens,CSNK1G3,1456.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),21572407
+265000,MIRT558912,hsa-miR-126-5p,Homo sapiens,CBX5,23468.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),21572407
+265734,MIRT559508,hsa-miR-126-5p,Homo sapiens,ARID5B,84159.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),20371350
+265735,MIRT559508,hsa-miR-126-5p,Homo sapiens,ARID5B,84159.0,Homo sapiens,PAR-CLIP//HITS-CLIP,Functional MTI (Weak),21572407
+265808,MIRT559548,hsa-miR-126-5p,Homo sapiens,ARGLU1,55082.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),21572407
+265939,MIRT559667,hsa-miR-126-5p,Homo sapiens,AGO3,192669.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),21572407
+266896,MIRT560577,hsa-miR-126-5p,Homo sapiens,ZNF460,10794.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),20371350
+268071,MIRT561730,hsa-miR-126-5p,Homo sapiens,PPIF,10105.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),20371350
+268192,MIRT561851,hsa-miR-126-5p,Homo sapiens,NPTX1,4884.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),20371350
+269117,MIRT562750,hsa-miR-126-5p,Homo sapiens,AOC3,8639.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),20371350
+269514,MIRT563141,hsa-miR-126-5p,Homo sapiens,NOLC1,9221.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),20371350
+269748,MIRT563375,hsa-miR-126-5p,Homo sapiens,DSPP,1834.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),20371350
+275148,MIRT568554,hsa-miR-126-3p,Homo sapiens,AKT2,208.0,Homo sapiens,PAR-CLIP,Functional MTI (Weak),20371350
+288993,MIRT611430,hsa-miR-126-5p,Homo sapiens,UGT8,7368.0,Homo sapiens,HITS-CLIP,Functional MTI (Weak),23313552
+288994,MIRT611430,hsa-miR-126-5p,Homo sapiens,UGT8,7368.0,Homo sapiens,HITS-CLIP,Functional MTI (Weak),23824327
+291632,MIRT613368,hsa-miR-126-3p,Homo sapiens,ACVR2B,93.0,Homo sapiens,HITS-CLIP,Functional MTI (Weak),23824327
+293322,MIRT614772,hsa-miR-126-3p,Homo sapiens,SLC41A2,84102.0,Homo sapiens,HITS-CLIP,Functional MTI (Weak),19536157
+293323,MIRT614772,hsa-miR-126-3p,Homo sapiens,SLC41A2,84102.0,Homo sapiens,HITS-CLIP,Functional MTI (Weak),23824327
+297677,MIRT618742,hsa-miR-126-5p,Homo sapiens,KIF1B,23095.0,Homo sapiens,HITS-CLIP,Functional MTI (Weak),23824327
+302977,MIRT623682,hsa-miR-126-5p,Homo sapiens,HOXB6,3216.0,Homo sapiens,HITS-CLIP,Functional MTI (Weak),23824327
+303044,MIRT623746,hsa-miR-126-3p,Homo sapiens,GRIN2B,2904.0,Homo sapiens,HITS-CLIP,Functional MTI (Weak),23824327
+319894,MIRT639513,hsa-miR-126-5p,Homo sapiens,FYB,2533.0,Homo sapiens,HITS-CLIP,Functional MTI (Weak),23824327
+322453,MIRT641911,hsa-miR-126-5p,Homo sapiens,SMARCC2,6601.0,Homo sapiens,HITS-CLIP,Functional MTI (Weak),23824327
+338210,MIRT657335,hsa-miR-126-5p,Homo sapiens,HNRNPDL,9987.0,Homo sapiens,HITS-CLIP,Functional MTI (Weak),23824327
+380171,MIRT697667,hsa-miR-126-5p,Homo sapiens,WNK1,65125.0,Homo sapiens,HITS-CLIP,Functional MTI (Weak),23313552
+381388,MIRT698879,hsa-miR-126-5p,Homo sapiens,SPTY2D1,144108.0,Homo sapiens,HITS-CLIP,Functional MTI (Weak),23313552
+384226,MIRT701668,hsa-miR-126-5p,Homo sapiens,MYBL1,4603.0,Homo sapiens,HITS-CLIP,Functional MTI (Weak),23313552
+386467,MIRT703877,hsa-miR-126-5p,Homo sapiens,ERCC6,2074.0,Homo sapiens,HITS-CLIP,Functional MTI (Weak),23313552
+387355,MIRT704765,hsa-miR-126-5p,Homo sapiens,CDKN2AIPNL,91368.0,Homo sapiens,HITS-CLIP,Functional MTI (Weak),23313552
+390351,MIRT707761,hsa-miR-126-5p,Homo sapiens,ZBTB7A,51341.0,Homo sapiens,HITS-CLIP,Functional MTI (Weak),21572407
+390650,MIRT708057,hsa-miR-126-5p,Homo sapiens,LONRF3,79836.0,Homo sapiens,HITS-CLIP,Functional MTI (Weak),21572407
+392583,MIRT709996,hsa-miR-126-5p,Homo sapiens,IFIT1,3434.0,Homo sapiens,HITS-CLIP,Functional MTI (Weak),19536157
+396086,MIRT713505,hsa-miR-126-5p,Homo sapiens,DCAF17,80067.0,Homo sapiens,HITS-CLIP,Functional MTI (Weak),19536157
+402794,MIRT720242,hsa-miR-126-5p,Homo sapiens,GPBP1,65056.0,Homo sapiens,HITS-CLIP,Functional MTI (Weak),19536157
+403659,MIRT721111,hsa-miR-126-5p,Homo sapiens,MYCBP2,23077.0,Homo sapiens,HITS-CLIP,Functional MTI (Weak),19536157
+406796,MIRT724258,hsa-miR-126-5p,Homo sapiens,GLUD1,2746.0,Homo sapiens,HITS-CLIP,Functional MTI (Weak),19536157
+407921,MIRT725385,hsa-miR-126-5p,Homo sapiens,METTL8,79828.0,Homo sapiens,HITS-CLIP,Functional MTI (Weak),19536157

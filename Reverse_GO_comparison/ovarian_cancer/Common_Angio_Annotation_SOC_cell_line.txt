@@ -1,0 +1,385 @@
+Common items are:
+
+AAngiogenesis
+HIF3A
+    PTGS2
+    NRCAM
+    PTK2B
+   SEMA4A
+     CAV1
+     RORA
+ ARHGAP22
+    SRPX2
+ ARHGAP24
+   PLXND1
+     THY1
+     ADM2
+      GPI
+   SH2D2A
+    FGFR2
+    FGFR1
+      FN1
+      SYK
+    CXCL8
+    ROBO4
+    ADAM8
+    EGFL7
+     ELK3
+    WNT7A
+    MMP14
+  TNFSF12
+     EPGN
+    MMP19
+    HIF1A
+     MED1
+TNFRSF12A
+    SOX18
+      JUN
+    MEIS1
+  CEACAM1
+  COL18A1
+   ANGPT2
+     FLT1
+   PLXDC1
+    EPHB1
+     JAM3
+    HOXB3
+   COL4A2
+     RHOB
+     FGF1
+    VASH1
+     VAV3
+     VAV2
+    HMOX1
+  TNFAIP2
+    ANPEP
+      NOV
+     TIE1
+    FOXC1
+   RASIP1
+     SAT1
+   MAPK14
+   POFUT1
+      TEK
+   CYP1B1
+     FZD8
+    S1PR1
+    PDE3B
+     CIB1
+    EFNA1
+    ITGA5
+     DLL4
+    PLCD3
+    PLCD1
+    TMEM2
+    SRPK2
+     IL18
+      ID1
+     CTGF
+     EREG
+     AMOT
+   AMOTL1
+    AGGF1
+    TGFB2
+    OVOL2
+  ZC3H12A
+     XBP1
+      PGF
+    WASF2
+    FGF18
+   COL8A2
+     NOS3
+   CALCRL
+    PRKCA
+     MCAM
+     NRP1
+     NRP2
+    ACKR3
+     TYMP
+    PTPRB
+    TGFBI
+     MMP2
+
+
+Angiogenesis involved in wound healing
+B4GALT1
+  ITGB3
+    SRF
+   DAG1
+
+
+Blood vessel endothelial cell proliferation involved in sprouting angiogenesis
+BMP4
+ NRARP
+SEMA5A
+
+
+Cadherin binding involved in cell-cell adhesion
+BAIAP2
+
+
+Cell migration involved in coronary angiogenesis
+Series([], )
+
+
+Cell migration involved in sprouting angiogenesis
+ITGB1
+  SRF
+ROBO1
+ EGR3
+NR4A1
+ FGF2
+SLIT2
+ NRP1
+
+
+Cell-cell adherens junction
+BAIAP2
+
+
+Cell-cell adhesion
+BAIAP2
+
+
+Endothelial tip cell fate specification
+DLL1
+NRP1
+
+
+Negative regulation of angiogenesis
+TGFB2
+     PML
+   SPRY2
+  SEMA4A
+     PTN
+     TEK
+   THBS2
+   SULF1
+   PDE3B
+   SPARC
+    KLF4
+     NF1
+  ANGPT2
+  SPINK5
+   GTF2I
+    NPR1
+   PPARG
+SERPINF1
+  COL4A2
+   VASH1
+   ROCK1
+   ROCK2
+    RGCC
+   PTPRM
+    TIE1
+    AGO1
+   FOXC1
+    AMOT
+
+
+Negative regulation of blood vessel endothelial cell migration
+PPARG
+
+
+Negative regulation of cell adhesion involved in sprouting angiogenesis
+Series([], )
+
+
+Negative regulation of cell migration
+Series([], )
+
+
+Negative regulation of cell proliferation
+Series([], )
+
+
+Negative regulation of endothelial cell-matrix adhesion via fibronectin
+Series([], )
+
+
+Negative regulation of sprouting angiogenesis
+ADAMTS9
+   KLF2
+   E2F2
+
+
+Positive regulation blood vessel branching
+ABL1
+
+
+Positive regulation of angiogenesis
+CTSH
+  SPHK1
+TNFSF12
+   ISL1
+  HIF1A
+  PTK2B
+  C5AR1
+ZC3H12A
+   IL1A
+   IL1B
+   FLT1
+    PGF
+  CCBE1
+    TEK
+ CYP1B1
+   BTG1
+ TWIST1
+    ENG
+  AGGF1
+  CXCR2
+  FGF18
+ ANGPT2
+   XBP1
+   CDH5
+   ADM2
+  BRCA1
+   NOS3
+  HSPB1
+   AQP1
+  PRKCA
+  ITGB8
+  HMGA2
+   CD40
+  PTGIS
+     C3
+  ITGB1
+  GATA6
+   RHOB
+   LRG1
+   FGF2
+   FGF1
+     F3
+ SEMA5A
+  CXCL8
+  HMOX1
+ ADAM12
+  PLCG1
+   TLR3
+  HSPB6
+  WNT5A
+
+
+Positive regulation of blood vessel endothelial cell migration
+CD40
+
+
+Positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis
+HMOX1
+
+
+Positive regulation of cell adhesion involved in sprouting angiogenesis
+Series([], )
+
+
+Positive regulation of cell migration involved in sprouting angiogenesis
+ANXA1
+PTGS2
+HDAC7
+HDAC9
+HMOX1
+ FGF2
+ AKT3
+SRPX2
+ ABL1
+ CIB1
+ NRP1
+
+
+Positive regulation of cell migration
+XBP1
+
+
+Positive regulation of cell proliferation
+XBP1
+
+
+Positive regulation of sprouting angiogenesis
+IL10
+ITGA5
+ DLL1
+ KLF4
+ FGF2
+ FGF1
+
+
+Positive regulation of vascular endothelial growth factor receptor signaling pathway
+Series([], )
+
+
+Regulation of angiogenesis
+ERBB2
+    SFRP1
+    VASH1
+    HMOX1
+    ENPP2
+    GPNMB
+    EFNA1
+      ID1
+      IL6
+   ADGRA2
+     EMP2
+      NF1
+   PLXND1
+TNFRSF12A
+     FGF2
+
+
+Regulation of blood vessel branching
+Series([], )
+
+
+Regulation of cell migration involved in sprouting angiogenesis
+Series([], )
+
+
+Regulation of sprouting angiogenesis
+CEACAM1
+  TMEM2
+  FGF18
+
+
+Sprouting angiogenesis
+PGF
+  E2F7
+ LOXL2
+   TEK
+ LOXL4
+   ENG
+OTULIN
+ CCBE1
+ CDH13
+  NRP1
+ PTK2B
+ADGRA2
+  FLT4
+  E2F8
+  CDH5
+  LEF1
+NOTCH1
+  FLT1
+
+
+Vascular endothelial growth factor receptor signaling pathway
+BAIAP2
+
+
+branching involved in blood vessel morphogenesis
+SRF
+   ENG
+NOTCH4
+ NRARP
+NFATC4
+  DLL4
+COL4A1
+  EDN1
+PLXND1
+  LEF1
+  NRP1
+
+
+negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis
+DLL4
+NGFR
+
+

@@ -1,0 +1,167 @@
+Common items are:
+
+AAngiogenesis
+PTEN
+ NRCAM
+ WNT7A
+ RAMP1
+  LEPR
+ PRKCA
+  TYMP
+ PLCD1
+ KRIT1
+   SYK
+   NOV
+S100A7
+ FGFR2
+PKNOX1
+  FLT1
+
+
+Angiogenesis involved in wound healing
+B4GALT1
+
+
+Blood vessel endothelial cell proliferation involved in sprouting angiogenesis
+Series([], )
+
+
+Cadherin binding involved in cell-cell adhesion
+Series([], )
+
+
+Cell migration involved in coronary angiogenesis
+Series([], )
+
+
+Cell migration involved in sprouting angiogenesis
+ROBO1
+NR4A1
+
+
+Cell-cell adherens junction
+Series([], )
+
+
+Cell-cell adhesion
+Series([], )
+
+
+Endothelial tip cell fate specification
+Series([], )
+
+
+Negative regulation of angiogenesis
+CX3CR1
+ THBS2
+   NF1
+ KRIT1
+ADGRB3
+SEMA6A
+
+
+Negative regulation of blood vessel endothelial cell migration
+Series([], )
+
+
+Negative regulation of cell adhesion involved in sprouting angiogenesis
+SEMA6A
+
+
+Negative regulation of cell migration
+Series([], )
+
+
+Negative regulation of cell proliferation
+Series([], )
+
+
+Negative regulation of endothelial cell-matrix adhesion via fibronectin
+Series([], )
+
+
+Negative regulation of sprouting angiogenesis
+SEMA6A
+
+
+Positive regulation blood vessel branching
+Series([], )
+
+
+Positive regulation of angiogenesis
+CX3CR1
+TWIST1
+ CXCR2
+  CMA1
+ RUNX1
+ PRKCA
+   HGF
+  FLT1
+
+
+Positive regulation of blood vessel endothelial cell migration
+Series([], )
+
+
+Positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis
+Series([], )
+
+
+Positive regulation of cell adhesion involved in sprouting angiogenesis
+Series([], )
+
+
+Positive regulation of cell migration involved in sprouting angiogenesis
+HDAC9
+
+
+Positive regulation of cell migration
+Series([], )
+
+
+Positive regulation of cell proliferation
+Series([], )
+
+
+Positive regulation of sprouting angiogenesis
+Series([], )
+
+
+Positive regulation of vascular endothelial growth factor receptor signaling pathway
+Series([], )
+
+
+Regulation of angiogenesis
+ERBB2
+  NF1
+
+
+Regulation of blood vessel branching
+Series([], )
+
+
+Regulation of cell migration involved in sprouting angiogenesis
+Series([], )
+
+
+Regulation of sprouting angiogenesis
+Series([], )
+
+
+Sprouting angiogenesis
+LEF1
+FLT1
+
+
+Vascular endothelial growth factor receptor signaling pathway
+Series([], )
+
+
+branching involved in blood vessel morphogenesis
+LEF1
+
+
+negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis
+Series([], )
+
+

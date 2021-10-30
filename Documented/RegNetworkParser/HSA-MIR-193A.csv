@@ -1,0 +1,5 @@
+"regulator_symbol","regulator_id","target_symbol","target_id","database","evidence","confidence"
+"MAX","4149","hsa-miR-193a","MIMAT0000459","transmir","Experimental","High"
+"RXRA","6256","hsa-miR-193a","MIMAT0000459","transmir","Experimental","High"
+"TP63","8626","hsa-miR-193a","MIMAT0000459","transmir","Experimental","High"
+"TP73","7161","hsa-miR-193a","MIMAT0000459","transmir","Experimental","High"

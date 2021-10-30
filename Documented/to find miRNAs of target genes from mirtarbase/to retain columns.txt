@@ -1,0 +1,6 @@
+To retain columns:
+
+miRTarBase ID 0
+miRNA 1
+Target Gene 3
+Target Gene (Entrez Gene ID) 4
