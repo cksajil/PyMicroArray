@@ -1,7 +1,5 @@
 ## PyMicroArray: A Python Codebase for Gene Expression Analysis
 
-> Accompanying code of research paper submitted to [**SoftwareX (Elsevier)**](https://www.journals.elsevier.com/softwarex/)
-
 PyMicroArray is a set of scripts written to aid in the data retrieval and analysis of
 micro-array expression data. A variety of code snippets which can be used from
 data pulling to analysis are made open-source. This might save biologist from a
