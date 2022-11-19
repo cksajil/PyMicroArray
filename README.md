@@ -336,4 +336,4 @@ df.to_csv('mixeddB.csv', sep=',')
 Research Scholar,  
 Dept. of Computational Biology & Bioinformatics,  
 University of Kerala, Kerala-695581, India.  
-**Email : sajilckdcb@keralauniversity.ac.in.**
+**Email : sajilck@gmail.com**
