@@ -27,7 +27,6 @@ scipy==0.19.1.
 ```
 
 ## PyMicroArray Ver 1.0 Documentation
-
 This code base contains various programs for data retireval, cleaning filtering and analysis.
 
 #### Find the microRNAs regulating the target genes
@@ -44,9 +43,6 @@ result.to_csv('DownRegulatedGene_MiRNA.csv', sep=',')
 ```
 
 The MIRTARBASE local database is available in the file **hsa_MTI_MIRTARBASE_DB_7.0.csv**. We can select the only required fields by specifying the columns needed in the *iloc* field. The result will be saved as a CSV file as given in the last line.
-
-
-
 
 #### Find Common genes between two datasets
 >PyMicroArray/to extract TSG & oncogenes from database
@@ -147,6 +143,7 @@ writer = ExcelWriter('Proteome_Profile_MeanCalculated_FC.xlsx')
 result.to_excel(writer,'Sheet1')
 writer.save()
 ```
+
 #### Normalize and classify into UP/Down regulated
 >PyMicroArray/Plos
 
@@ -163,6 +160,7 @@ table.loc[table['zscore'] > cutoff, 'Regulation']	=	'UP'
 table.loc[table['zscore'] < -1*cutoff, 'Regulation']	=	'Down'
 table.to_csv('Regulation.csv', sep=',', index = False)
 ```
+
 #### Filter specific gene details from NCBI dataset
 >PyMicroArray/NCBIOfflineSelector
 
@@ -170,12 +168,12 @@ Given a set of genes check for its presece in local NCBI data set and retreive o
 
 ```python
 import pandas as pd
-
-data = pd.read_csv('Homo_sapiens.csv', low_memory=False)
-data = data[['Symbol', 'Synonyms', 'type_of_gene']]
-genes = pd.read_excel(open('GSE837_DEGs_GSEA.xlsx','rb'), sheetname=0)['Total_DEG_GSE837_GSEA'].values
-col = ['Symbol', 'Synonyms', 'type_of_gene']
-result = pd.DataFrame(columns = col)
+data	=	pd.read_csv('Homo_sapiens.csv', low_memory=False)
+data	=	data[['Symbol', 'Synonyms', 'type_of_gene']]
+genes	=	pd.read_excel(open('GSE837_DEGs_GSEA.xlsx','rb'),\
+	sheetname=0)['Total_DEG_GSE837_GSEA'].values
+col		=	['Symbol', 'Synonyms', 'type_of_gene']
+result	=	pd.DataFrame(columns = col)
 
 for index, row in data.iterrows():
 	if row.values[1]!='-':
@@ -205,14 +203,13 @@ import requests
 import time
 import re
 
-genes = np.loadtxt('input_hsa-miR-103a-3p.txt')
-col = ['Id', 'Official Full Name']
-result = pd.DataFrame(columns = col)
-link = 'https://www.ncbi.nlm.nih.gov/gene/'
+genes	=	np.loadtxt('input_hsa-miR-103a-3p.txt')
+col		=	['Id', 'Official Full Name']
+result	=	pd.DataFrame(columns = col)
+link	=	'https://www.ncbi.nlm.nih.gov/gene/'
 
 for gene in genes:
-
-	page = requests.get(link+str(int(gene)))
+	page	=	requests.get(link+str(int(gene)))
 	if page.status_code == 200:
 		content = page.content
 		content = content.replace('\n','')
@@ -232,9 +229,9 @@ for gene in genes:
 	result.loc[len(result)] = [str(int(gene)), attribute]
 	print str(gene)+'\t'+attribute
 	#time.sleep(5)
-
 result.to_csv('Output_hsa-miR-103a-3p.csv', sep=',', index = False)
 ```
+
 #### Retrieving Gene type information from NCBI dataset
 >PyMicroArray/NCBI_genetype_fetch_offline
 
@@ -245,21 +242,20 @@ import pandas as pd
 import numpy as np
 from os import listdir, curdir, path
 
-data = pd.read_excel(open('Homo_sapiens.xlsx','rb'), sheetname=0)
-data = data[['GeneID','type_of_gene']]
-
-col = ['id', 'attribute']
-
-files = listdir(curdir)
+data	=	pd.read_excel(open('Homo_sapiens.xlsx','rb'), sheetname=0)
+data	=	data[['GeneID','type_of_gene']]
+col		= 	['id', 'attribute']
+files	= 	listdir(curdir)
 
 for file in files:
 	if '.txt' in file:
-		genes = np.loadtxt(file)
-		result = pd.DataFrame(columns = col)
+		genes	=	np.loadtxt(file)
+		result	=	pd.DataFrame(columns = col)
 		for gene in genes:
 			result.loc[len(result)] =  data[data['GeneID'] == gene].values[0]
 		result.to_csv(path.splitext(file)[0]+'_Out.csv', sep=',', index = False)
 ```
+
 #### Find Unique Average
 >PyMicroArray/UniqueAverage
 
@@ -272,7 +268,7 @@ from pandas import ExcelWriter
 from time import time
 import progressbar
 
-InputFileName 	= 		'GEO2R ANALYSIS  GSE81465.xlsx'
+InputFileName	= 		'GEO2R ANALYSIS  GSE81465.xlsx'
 data			= 		pd.read_excel(open(InputFileName,'rb'), sheet_name=0, index=False)
 result 			= 		pd.DataFrame(columns = data.columns)
 genes 			= 		list(set(data['Gene.symbol'].values))
@@ -295,7 +291,6 @@ with progressbar.ProgressBar(max_value=L) as bar:
 writer = ExcelWriter(InputFileName.split('.')[0]+'_Output.xlsx')
 result.to_excel(writer,'Sheet1',index=False)
 writer.save()
-
 ```
 
 #### Find Unique Average
@@ -305,14 +300,14 @@ Given a dataset, it filters the dataset based on a P-value threshold. Here the d
 
 ```python
 import pandas as pd
-
-xl = pd.ExcelFile("Book5.xlsx")
-data = xl.parse("Sheet1")
-datan = data[data['P.Value']<=0.005].dropna()
-writer = pd.ExcelWriter('output_pvalue-0.005.xlsx')
+xl		=	pd.ExcelFile("Book5.xlsx")
+data	= 	xl.parse("Sheet1")
+datan	= 	data[data['P.Value']<=0.005].dropna()
+writer	= 	pd.ExcelWriter('output_pvalue-0.005.xlsx')
 datan.to_excel(writer,'Sheet1')
 writer.save()
 ```
+
 #### Find Unique Average
 >PyMicroArray/CSVMixer
 
@@ -324,8 +319,7 @@ import glob, os
 df = pd.concat(map(pd.read_csv, glob.glob(os.path.join('', '*.csv'))))
 df.to_csv('mixeddB.csv', sep=',')
 ```
-
-
+s
 ### Contact
 **Sajil C. K.**,  
 Research Scholar,  
