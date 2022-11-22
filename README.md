@@ -37,9 +37,9 @@ To find the microRNAs regulating the target genes from the MIRTARBASE local data
 
 ```python
 import pandas as pd
-data 	  = 	pd.read_csv('hsa_MTI_MIRTARBASE_DB_7.0.csv').iloc[:,[0,1,3,4]]
-genes 	 = 	pd.read_csv('RR_total_downregulated_gene_list.txt').values.flatten()
-result	 = data[data['Target Gene'].isin(genes)]
+data	=	pd.read_csv('hsa_MTI_MIRTARBASE_DB_7.0.csv').iloc[:,[0,1,3,4]]
+genes	=	pd.read_csv('RR_total_downregulated_gene_list.txt').values.flatten()
+result	= 	data[data['Target Gene'].isin(genes)]
 result.to_csv('DownRegulatedGene_MiRNA.csv', sep=',')
 ```
 
@@ -55,12 +55,10 @@ This code snippet finds common genes between two data sets and saves the same to
 
 ```python
 import pandas as pd
-
-data1 = pd.read_csv("Human_TSGs_TSG2.0_database.csv")["GeneSymbol"]
-data2 = pd.read_csv("DEGs_SRR926257.csv")["gene_id"]
-
-common = set(data1).intersection(data2)
-outfile = open('TSGs_in_DEGs_SRR926257.txt', 'w')
+data1	=	pd.read_csv("Human_TSGs_TSG2.0_database.csv")["GeneSymbol"]
+data2	=	pd.read_csv("DEGs_SRR926257.csv")["gene_id"]
+common	=	set(data1).intersection(data2)
+outfile	=	open('TSGs_in_DEGs_SRR926257.txt', 'w')
 if bool(common):
 	outfile.write("\n".join(common))
 else:
@@ -75,12 +73,11 @@ This code can filter a dataset with a coloumn matching a key term. Here we want 
 
 ```python
 import pandas as pd
-data = pd.read_csv("Mirtarbase_human_interactions_database.csv")
-result = pd.DataFrame()
-match  = data.miRNA.str.contains('^hsa-miR-103a-')
-result = data[match]
+data	=	pd.read_csv("Mirtarbase_human_interactions_database.csv")
+result	=	pd.DataFrame()
+match	=	data.miRNA.str.contains('^hsa-miR-103a-')
+result	=	data[match]
 result.to_csv('mirtarbase_miR-103a.csv', sep=',')
-
 ```
 
 #### To retrieve data from RegNetwork dataset online.
@@ -93,8 +90,8 @@ import pandas as pd
 import urllib
 import time
 
-testfile = urllib.URLopener()
-searchterms = pd.read_excel(open('miRNA_to_find_TF.xlsx','rb'), sheetname=0)['miRNA']
+testfile	=	urllib.URLopener()
+searchterms	=	pd.read_excel(open('miRNA_to_find_TF.xlsx','rb'), sheetname=0)['miRNA']
 
 for item in searchterms:
 	time.sleep(5)
@@ -113,10 +110,13 @@ import pandas as pd
 import numpy as np
 from pandas import ExcelWriter
 
-data		= 		pd.read_excel(open('Proteome_data_cell_fractions_combined.xlsx','rb'), sheetname=0, index=False)
-columns 	= 		['UNIPROT', 'SYMBOL', 'GENENAME', 'UNTREATED', 'VEGF', 'Ratio', 'FC']
-result 		= 		pd.DataFrame(columns = columns)
-genes 		= 		list(set(data['SYMBOL'].values))
+data	=	pd.read_excel(open('Proteome_data_cell_fractions_combined.xlsx','rb'),\
+	sheetname=0,\
+	index=False)
+
+columns	=	['UNIPROT', 'SYMBOL', 'GENENAME', 'UNTREATED', 'VEGF', 'Ratio', 'FC']
+result	=	pd.DataFrame(columns = columns)
+genes 	=	list(set(data['SYMBOL'].values))
 
 for gene in genes:
 	row = data[data['SYMBOL']==gene]
@@ -154,14 +154,13 @@ This code adds a flag 'Regulated' to the output to classify genes based on their
 
 ```python
 import pandas as pd
+cutoff	=	1.65
+table	=	pd.read_csv('plosone.csv')
+data	=	table['HUVEC']
+table['zscore']	=	(data - data.mean())/data.std(ddof=0)
 
-cutoff 			      =   1.65
-table 			      = 	pd.read_csv('plosone.csv')
-data 			        = 	table['HUVEC']
-table['zscore']   =   (data - data.mean())/data.std(ddof=0)
-
-table.loc[table['zscore'] > cutoff, 'Regulation'] = 'UP'
-table.loc[table['zscore'] < -1*cutoff, 'Regulation'] = 'Down'
+table.loc[table['zscore'] > cutoff, 'Regulation']	=	'UP'
+table.loc[table['zscore'] < -1*cutoff, 'Regulation']	=	'Down'
 table.to_csv('Regulation.csv', sep=',', index = False)
 ```
 #### Filter specific gene details from NCBI dataset
@@ -325,8 +324,6 @@ import glob, os
 df = pd.concat(map(pd.read_csv, glob.glob(os.path.join('', '*.csv'))))
 df.to_csv('mixeddB.csv', sep=',')
 ```
-
-
 
 
 ### Contact
