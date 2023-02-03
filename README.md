@@ -13,7 +13,7 @@ lot of manual effort and save the time needed.
 
 ### Systems Tested
 
-```
+```console
 |OS Linux|Machine|OptiPlex 7010 (OptiPlex 7010)|64 bits|RAM 8GiB|
 CPU : Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz
 
